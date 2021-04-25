@@ -18,7 +18,7 @@ These months look like the they have reasonable tempreatures  for tourists to vi
 By understanding  the combination of  Precipation factors along with the  temperatures for the month , better decisions can be made to 
 determine if the surf and ice cream shop business is sustainable year-round.Below data shows Precipitation  plot and statistics for june and december
 
-![June Precipitation.PNG](June\ Precipitation.PNG)    
+![June Precipitation.PNG]("June\ Precipitation.PNG")    
 
 ![June Precipitation Stats.PNG](June Precipitation Stats.PNG)
 

@@ -21,6 +21,12 @@ determine if the surf and ice cream shop business is sustainable year-round.Belo
 ![June Precipitation.PNG](June Precipitation.PNG)                        ![June Precipitation Stats.PNG](June Precipitation Stats.PNG)
 
 
+
+
+
+
+
+
 ![December Precipitation.PNG](December Precipitation.PNG)                ![December Precipitation Stats.PNG](December Precipitation Stats.PNG)
 
 

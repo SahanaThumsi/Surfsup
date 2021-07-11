@@ -47,7 +47,7 @@ def temp_monthly():
         filter(Measurement.station == 'USC00519281').\
         filter(Measurement.date >= prev_year).all()
     temps = list(np.ravel(results))
-    return jsonify(temps=temps)
+    return jsonify(temps)
 @app.route("/api/v1.0/temp/<start>")
 @app.route("/api/v1.0/temp/<start>/<end>")
 def stats(start=None, end=None):
@@ -65,4 +65,5 @@ def stats(start=None, end=None):
         filter(Measurement.date <= end).all()
     temps = list(np.ravel(results))
     return jsonify(temps=temps)
-
+if __name__ == '__main__':
+    app.run(debug=True)
